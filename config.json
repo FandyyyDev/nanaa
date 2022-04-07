@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6285750817378@s.whatsapp.net",
+  "botName": "Nanabotz",
+  "ownerName": "Nana Store",
+  "footer": "*2022 © NANABOTZ*",
+  "apikey": "BELI ATUH",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "session",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
